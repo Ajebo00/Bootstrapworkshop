@@ -1,0 +1,176 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: gray;
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    background: black;
+    padding-top: 0rem;
+    border-top: 20rem;
+   
+}
+
+#logo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 36px;
+    font-weight: 700 ;
+    text-shadow: 0px 1px 1px grey;
+    color: azure;
+    margin-bottom: 5px;
+    padding-right: 45%
+}
+
+#logo span{
+    color: grey;
+    font-size: 40px;
+    padding-right: 1rem;
+}
+
+.navbar-toggler span{
+    color: grey;
+ 
+}
+
+.navbar-nav{
+    margin-left: 20px;
+
+}
+
+.nav-item .nav-link{
+    font-size: 16px;
+    font-weight: 550;
+    color:grey;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.10s;
+    justify-content: flex-end;    
+}
+.nav-item .nav-link:hoover{
+    background: gba(128, 128, 128, 0.592) ;
+    color:aliceblue;
+
+}
+
+
+
+
+
+
+/* .form-control {
+    background:grey;
+    color: grey;
+    border: solid grey;
+    border-radius: 2%;
+    padding-right: 0rem;
+    margin-left: 30rem;
+
+
+} */
+
+
+.headersec2{
+    padding-bottom: 50rem;
+    text-align: center;
+    font-size: larger;
+
+}
+
+
+
+
+
+
+
+
+.main{
+    background: url(/Section.jpg)no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.main h1{
+    font-size: 4rem;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+
+}
+
+
+
+.btn1{
+    height: 60px;
+    width: 200px;
+    border: none;
+    outline: black;
+    background-color: gainsboro;
+    color: black;
+    font-weight: 600;
+    border-radius: 60px;
+
+
+}
+
+.btn1.nav-link:hoover{
+    
+
+}
+/* 
+.row{
+    padding-top: 13rem
+} */
+
+.container{
+    /* padding-bottom: 50% 50%; */
+}
+
+
+.h3{
+    font-weight: 600;
+}
+
+.d-flex
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form{
+    margin: auto;
+    width: 90%;
+    background-color: rgba(128, 128, 128, 0.336);
+    padding: 25px;
+ }
+
+
+.form2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
